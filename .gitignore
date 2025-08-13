@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+
+# Test JSON files
+test_*.json
+
+# Cache files
+.cache
+
+# Logs
+*.log
+
+# IDE specific files
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
